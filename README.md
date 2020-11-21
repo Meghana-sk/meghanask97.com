@@ -6,4 +6,6 @@ I am from Hassan, Karnataka.
 I am know
 
 1. Javascript
-2. Github
+2. Git & Github
+3. Netlify
+
