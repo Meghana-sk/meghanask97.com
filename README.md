@@ -3,9 +3,9 @@
 This is a personal portfolio in making about Meghana. That's me.
 I am from Hassan, Karnataka. 
 
-Developed using 
+- Developed using 
 
-- ![alt text] (https://www.google.com/search?q=javascript+svg+logo&sxsrf=ALeKk00Z_LtmVAQ8pMqoN_18GeNg0mPPeA:1607227561344&tbm=isch&source=iu&ictx=1&fir=OjxUDbBnmbNG5M%252CKttGko9CS6GpqM%252C_&vet=1&usg=AI4_-kS3LC5UyeYKyHTD1tczpAfSr729VA&sa=X&ved=2ahUKEwj4yfeevbjtAhVlzDgGHRx7BmgQ9QF6BAgSEAE#imgrc=OjxUDbBnmbNG5M)
-- Git & Github
-- Netlify
+![Alt text](https://cdn.worldvectorlogo.com/logos/logo-javascript.svg?raw=true "js")
+![Alt text](https://cdn.worldvectorlogo.com/logos/html-5.svg?raw=true "html")
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="60" height="60">
 
