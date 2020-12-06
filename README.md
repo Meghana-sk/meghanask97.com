@@ -5,7 +5,7 @@ I am from Hassan, Karnataka.
 
 - Developed using 
 
-![Alt text](https://cdn.worldvectorlogo.com/logos/logo-javascript.svg?raw=true "js")
-![Alt text](https://cdn.worldvectorlogo.com/logos/html-5.svg?raw=true "html")
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="60" height="60">
+<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width="60" height="60">
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="60" height="60">
 
